@@ -10,6 +10,11 @@ body{
     background-color: #111111;
 }
 
+.camp{
+    font-family: Garamond;
+    color: #fff;
+}
+
 .link-bio{
     display: flex;
     flex-direction: column;
